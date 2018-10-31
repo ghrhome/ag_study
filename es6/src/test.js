@@ -1,8 +1,12 @@
 class PersonClass{
+    name="cheng"
+
 
     constructor(name){
         this.name=name;
     }
+
+
 
     sayName(){
         console.log(this.name)
